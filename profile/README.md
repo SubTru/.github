@@ -6,4 +6,5 @@ The SubTru API processes subscription events sent from Stripe, the Apple App Sto
 
 ![How SubTru works](./assets/how-subtru-works.png)
 
-[https://subtru.com](https://subtru.com)
+- [SubTru API Repo](https://github.com/subtru/subtru)
+- [SubTru Website](https://subtru.com)
